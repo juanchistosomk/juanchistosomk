@@ -9,8 +9,8 @@ Dev Fullstack MEAN, API Rest Python, PHP, Ing. de Datos, Base de datos<br>
 <a href="https://freeimage.host/i/DLb0zl" target="_blank"><img src="https://iili.io/DLb0zl.md.png" border="0"></a>
 <a href="https://freeimage.host/i/DLb1X2" target="_blank"><img src="https://iili.io/DLb1X2.md.png" border="0"></a>
 
-- 👀 I’m interested in ...
-- 
+## 👀 I’m interested in ...
+ 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|Javascript-Node|
@@ -19,8 +19,8 @@ Dev Fullstack MEAN, API Rest Python, PHP, Ing. de Datos, Base de datos<br>
 |     4|      SQL      |
 |     5|     Cloud     |
 
-- 🌱 I’m currently learning more...
-- 
+## 🌱 I’m currently learning more...
+
 | No.  | Languages, frameworks, cloud, data |
 |-----:|------------------------------------|
 |     1| Airflow, ApacheSpark, Power BI     |
@@ -31,7 +31,7 @@ Dev Fullstack MEAN, API Rest Python, PHP, Ing. de Datos, Base de datos<br>
 
 <br>
 
-- 📫 How to reach me ...<br>
+## 📫 How to reach me ...<br>
 email: jccastillogo@gmail.com
 linkedin: https://www.linkedin.com/in/juan-carlos-castillo-gómez-416b3524a/
 
