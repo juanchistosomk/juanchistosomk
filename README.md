@@ -6,8 +6,8 @@ Dev Fullstack MEAN, API Rest Python, PHP, Ing. de Datos, Base de datos<br>
 <a href="https://freeimage.host/i/H6pv7u1" target="_blank"><img src="https://iili.io/H6pv7u1.md.png" border="0"></a>
 <a href="https://freeimage.host/i/H6pkWhu" target="_blank"><img src="https://iili.io/H6pkWhu.md.png" border="0"></a>
 <a href="https://freeimage.host/i/H6pkL2p" target="_blank"><img src="https://iili.io/H6pkL2p.md.png" border="0"></a>
-<a href="https://freeimage.host/i/H6p8GWu" target="_blank"><img src="https://iili.io/H6p8GWu.md.png" border="0"></a>
-<a href="https://freeimage.host/i/DLbY5G" target="_blank"><img src="https://iili.io/DLbY5G.md.png" border="0"></a>
+<a href="https://freeimage.host/i/H6pr2mN" target="_blank"><img src="https://iili.io/H6pr2mN.md.png" border="0"></a>
+<a href="https://freeimage.host/i/H6p6IxS" target="_blank"><img src="https://iili.io/H6p6IxS.md.png" border="0"></a>
 <a href="https://freeimage.host/i/H6pUlne" target="_blank"><img src="https://iili.io/H6pUlne.md.png" border="0"></a>
 <a href="https://freeimage.host/i/HUrVfMx" target="_blank"><img src="https://iili.io/HUrVfMx.md.png" border="0"></a>
 <a href="https://freeimage.host/i/DLb7Js" target="_blank"><img src="https://iili.io/DLb7Js.md.png" border="0"></a>
