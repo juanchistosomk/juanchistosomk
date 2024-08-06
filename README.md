@@ -12,7 +12,15 @@ Software Engineer - Fullstack Developer and Data Engineer<br>
 <hr width="36%" >
 
 <h3 align="left">My GitHub Stat</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanchistosomk&size_weight=0.5&count_weight=0.5&layout=compact)
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanchistosomk&size_weight=0.5&count_weight=0.5&layout=compact&show_icons=true&theme=dark" alt="jkdev" /></p>
+<p>
+
+
+[![juanchistosomk GitHub stats](https://github-readme-stats.vercel.app/api?username=juanchistosomk&show_icons=true&hide=stars&theme=radical)](https://github.com/juanchistosomk/github-readme-stats)
+
 
 ## My last projects
 
@@ -26,6 +34,16 @@ Software Engineer - Fullstack Developer and Data Engineer<br>
 <a href="https://freeimage.host/i/DLb7Js" target="_blank"><img src="https://iili.io/DLb7Js.md.png" border="0"></a>
 <a href="https://freeimage.host/i/DLb0zl" target="_blank"><img src="https://iili.io/DLb0zl.md.png" border="0"></a>
 <a href="https://freeimage.host/i/DLb1X2" target="_blank"><img src="https://iili.io/DLb1X2.md.png" border="0"></a>
+
+<hr width="60%" >
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/juan-carlos-castillo-gomez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> 
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jkdev" height="30" width="40" /></a>
+</p>
+<br>
+
+
 
 ## 👀 I’m interested in ...
  
