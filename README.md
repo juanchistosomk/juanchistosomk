@@ -3,6 +3,7 @@
 Software Engineer - Fullstack Developer and Data Engineer<br>
 
 🌱 I’m currently learning **AI Artificial Inteligence** at <a href="https://campus.talentotechbogota.co/auth/login" target="_blank">MinTIC</a>, JAVA Spring Boot and Tailwind
+<br><br>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <br>
