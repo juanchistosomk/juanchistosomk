@@ -44,13 +44,12 @@ Software Engineer - Fullstack Developer and Data Engineer<br>
 
 
 <a href="https://freeimage.host/i/dYvgtbs" target="_blank"><img src="https://iili.io/dYvgtbs.md.png" border="0"></a>
+<a href="https://freeimage.host/i/dYU6R6J" target="_blank"><img src="https://iili.io/dYU6R6J.md.png" border="0"></a>
 <a href="https://freeimage.host/i/dYSHjvn" target="_blank"><img src="https://iili.io/dYSHjvn.md.png" border="0"></a>
 <a href="https://freeimage.host/i/dYSnrp2" target="_blank"><img src="https://iili.io/dYSnrp2.md.png" border="0"></a>
 <a href="https://freeimage.host/i/dYSZJb2" target="_blank"><img src="https://iili.io/dYSZJb2.md.png" border="0"></a>
 <a href="https://freeimage.host/i/dYUKj5B" target="_blank"><img src="https://iili.io/dYUKj5B.md.png" border="0"></a>
-
 <a href="https://freeimage.host/i/dYUnWAl" target="_blank"><img src="https://iili.io/dYUnWAl.md.png" border="0"></a>
-
 
 <a href="https://freeimage.host/i/dYvunzN" target="_blank"><img src="https://iili.io/dYvunzN.md.png" border="0"></a>
 <!--<a href="https://freeimage.host/i/H6pZ3s2" target="_blank"><img src="https://iili.io/H6pZ3s2.md.png" border="0"></a>-->
