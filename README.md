@@ -43,11 +43,20 @@ Software Engineer - Fullstack Developer and Data Engineer<br>
 ## My last projects
 
 
-<a href="https://freeimage.host/i/dYvunzN" target="_blank"><img src="https://freeimage.host/i/dYvunzN" border="0"></a>
+<a href="https://freeimage.host/i/dYvgtbs" target="_blank"><img src="https://iili.io/dYvgtbs.md.png" border="0"></a>
+<a href="https://freeimage.host/i/dYSHjvn" target="_blank"><img src="https://iili.io/dYSHjvn.md.png" border="0"></a>
+<a href="https://freeimage.host/i/dYSnrp2" target="_blank"><img src="https://iili.io/dYSnrp2.md.png" border="0"></a>
+<a href="https://freeimage.host/i/dYSZJb2" target="_blank"><img src="https://iili.io/dYSZJb2.md.png" border="0"></a>
+<a href="https://freeimage.host/i/dYUKj5B" target="_blank"><img src="https://iili.io/dYUKj5B.md.png" border="0"></a>
+
+<a href="https://freeimage.host/i/dYUnWAl" target="_blank"><img src="https://iili.io/dYUnWAl.md.png" border="0"></a>
+
+
+<a href="https://freeimage.host/i/dYvunzN" target="_blank"><img src="https://iili.io/dYvunzN.md.png" border="0"></a>
 <!--<a href="https://freeimage.host/i/H6pZ3s2" target="_blank"><img src="https://iili.io/H6pZ3s2.md.png" border="0"></a>-->
+<a href="https://freeimage.host/i/DLb7Js" target="_blank"><img src="https://iili.io/DLb7Js.md.png" border="0"></a>
 <a href="https://freeimage.host/i/H6p6IxS" target="_blank"><img src="https://iili.io/H6p6IxS.md.png" border="0"></a>
 <a href="https://freeimage.host/i/H6pUlne" target="_blank"><img src="https://iili.io/H6pUlne.md.png" border="0"></a>
-<a href="https://freeimage.host/i/DLb7Js" target="_blank"><img src="https://iili.io/DLb7Js.md.png" border="0"></a>
 <a href="https://freeimage.host/i/DLb0zl" target="_blank"><img src="https://iili.io/DLb0zl.md.png" border="0"></a>
 <a href="https://freeimage.host/i/DLb1X2" target="_blank"><img src="https://iili.io/DLb1X2.md.png" border="0"></a>
 
