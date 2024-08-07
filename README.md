@@ -40,7 +40,7 @@ Software Engineer - Fullstack Developer and Data Engineer<br>
 [![juanchistosomk GitHub stats](https://github-readme-stats.vercel.app/api?username=juanchistosomk&show_icons=true&hide=stars&theme=radical)](https://github.com/juanchistosomk/github-readme-stats)
 
 
-## My last projects
+## 🚀My last projects
 
 
 <a href="https://freeimage.host/i/dYvgtbs" target="_blank"><img src="https://iili.io/dYvgtbs.md.png" border="0"></a>
