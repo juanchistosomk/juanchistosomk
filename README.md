@@ -1,6 +1,6 @@
 
 ## 👋 Hi, I’m Juan Carlos C. @jkdev! COL<br>
-Software Engineer - Fullstack Developer and Data Engineer<br>
+Software Engineer Fullstack Developer and Data Engineer<br>
 
 🌱 I’m currently learning **AI Artificial Inteligence** at <a href="https://campus.talentotechbogota.co/auth/login" target="_blank">MinTIC</a>, JAVA Spring Boot at Universidad Distrital
 <br><br>
@@ -20,8 +20,7 @@ Software Engineer - Fullstack Developer and Data Engineer<br>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p><br>
 
 
@@ -43,27 +42,31 @@ Software Engineer - Fullstack Developer and Data Engineer<br>
 ## 🚀My last projects
 
 
+<p>Proyecto implementacion de IA en plataforma educativa para la generación de contenidos educativos. https://pe.edu.co</p>
 
 <a align="left" href="https://freeimage.host/i/dWn7WmX" target="_blank"><img src="https://iili.io/dWn7WmX.md.png" border="0"></a>
 <a align="left" href="https://freeimage.host/i/dYvgtbs" target="_blank"><img src="https://iili.io/dYvgtbs.md.png" border="0"></a>
 <a align="right" href="https://freeimage.host/i/dYU6R6J" target="_blank"><img src="https://iili.io/dYU6R6J.md.png" border="0"></a>
-Proyecto implementacion de IA en plataforma educativa para la generación de contenidos educatios.
+<p>Automatización de diversos procesos ETL con Airflow, Docker, Python, Flask para empresa</p>
 <a align="right" href="https://freeimage.host/i/deSRzMv" target="_blank"><img src="https://iili.io/deSRzMv.md.png" border="0"></a>
 <a align="right" href="https://freeimage.host/i/deSlCNI" target="_blank"><img src="https://iili.io/deSlCNI.md.png" border="0"></a>
-Automatización de procesos ETL con Airflow
+<p>Plataforma web para gestion interna de empresa que abarca busquedas avanzadas de informacion por medio de modelos de IA con diversas funciones como analisis fonetico, analisis de imagenes (Reverse imagen search), generación de reportes. Fue contruida principalmente en Angular y Python FastAPI, trabaja con contenedores Docker y bases de datos vectoriales como  Milvus y Chromadb</p>
 <a align="left" href="https://freeimage.host/i/dYSHjvn" target="_blank"><img src="https://iili.io/dYSHjvn.md.png" border="0"></a>
 <a align="right" href="https://freeimage.host/i/dYSnrp2" target="_blank"><img src="https://iili.io/dYSnrp2.md.png" border="0"></a>
+
+<p>Plataforma web para gestion de Cliente de empresa que abarca principalmente pasarela de pagos, visualizacion de avace y estado de casos juridicos del cliente, solicitudes automáticas de documentos, zona de administración, ayuda personalizada para clientes, notificaciones, entre otras. Fue contruida principalmente en Angular, Node Express, Mysql</p>
 <a href="https://freeimage.host/i/dYSZJb2" target="_blank"><img src="https://iili.io/dYSZJb2.md.png" border="0"></a>
 <a href="https://freeimage.host/i/dYUKj5B" target="_blank"><img src="https://iili.io/dYUKj5B.md.png" border="0"></a>
 <a href="https://freeimage.host/i/dYUnWAl" target="_blank"><img src="https://iili.io/dYUnWAl.md.png" border="0"></a>
 
+<br>
 <a href="https://freeimage.host/i/dYvunzN" target="_blank"><img src="https://iili.io/dYvunzN.md.png" border="0"></a>
-<!--<a href="https://freeimage.host/i/H6pZ3s2" target="_blank"><img src="https://iili.io/H6pZ3s2.md.png" border="0"></a>-->
-<a href="https://freeimage.host/i/DLb7Js" target="_blank"><img src="https://iili.io/DLb7Js.md.png" border="0"></a>
-<a href="https://freeimage.host/i/H6p6IxS" target="_blank"><img src="https://iili.io/H6p6IxS.md.png" border="0"></a>
-<a href="https://freeimage.host/i/H6pUlne" target="_blank"><img src="https://iili.io/H6pUlne.md.png" border="0"></a>
-<a href="https://freeimage.host/i/DLb0zl" target="_blank"><img src="https://iili.io/DLb0zl.md.png" border="0"></a>
-<a href="https://freeimage.host/i/DLb1X2" target="_blank"><img src="https://iili.io/DLb1X2.md.png" border="0"></a>
+
+<a href="https://freeimage.host/i/DLb7Js" target="_blank"><img src="https://iili.io/DLb7Js.md.png" border="0"></a><br>
+<a href="https://freeimage.host/i/H6p6IxS" target="_blank"><img src="https://iili.io/H6p6IxS.md.png" border="0"></a><br>
+<a href="https://freeimage.host/i/H6pUlne" target="_blank"><img src="https://iili.io/H6pUlne.md.png" border="0"></a><br>
+<a href="https://freeimage.host/i/DLb0zl" target="_blank"><img src="https://iili.io/DLb0zl.md.png" border="0"></a><br>
+<a href="https://freeimage.host/i/DLb1X2" target="_blank"><img src="https://iili.io/DLb1X2.md.png" border="0"></a><br>
 
 <br>
 ## 👀 I’m interested in ...
