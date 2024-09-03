@@ -43,9 +43,14 @@ Software Engineer - Fullstack Developer and Data Engineer<br>
 ## 🚀My last projects
 
 
+
 <a align="left" href="https://freeimage.host/i/dWn7WmX" target="_blank"><img src="https://iili.io/dWn7WmX.md.png" border="0"></a>
 <a align="left" href="https://freeimage.host/i/dYvgtbs" target="_blank"><img src="https://iili.io/dYvgtbs.md.png" border="0"></a>
 <a align="right" href="https://freeimage.host/i/dYU6R6J" target="_blank"><img src="https://iili.io/dYU6R6J.md.png" border="0"></a>
+Proyecto implementacion de IA en plataforma educativa para la generación de contenidos educatios.
+<a align="right" href="https://freeimage.host/i/deSRzMv" target="_blank"><img src="https://iili.io/deSRzMv.md.png" border="0"></a>
+<a align="right" href="https://freeimage.host/i/deSlCNI" target="_blank"><img src="https://iili.io/deSlCNI.md.png" border="0"></a>
+Automatización de procesos ETL con Airflow
 <a align="left" href="https://freeimage.host/i/dYSHjvn" target="_blank"><img src="https://iili.io/dYSHjvn.md.png" border="0"></a>
 <a align="right" href="https://freeimage.host/i/dYSnrp2" target="_blank"><img src="https://iili.io/dYSnrp2.md.png" border="0"></a>
 <a href="https://freeimage.host/i/dYSZJb2" target="_blank"><img src="https://iili.io/dYSZJb2.md.png" border="0"></a>
