@@ -42,11 +42,13 @@ Software Engineer Fullstack Developer and Data Engineer<br>
 ## 🚀My last projects
 
 
-<p>Proyecto implementacion de IA en plataforma educativa para la generación de contenidos educativos. https://pe.edu.co</p>
+<p>Proyecto implementacion de Inteligencia Artificial en plataforma educativa para la generación de contenidos educativos. https://pe.edu.co</p>
 
 <a align="left" href="https://freeimage.host/i/dWn7WmX" target="_blank"><img src="https://iili.io/dWn7WmX.md.png" border="0"></a>
 <a align="left" href="https://freeimage.host/i/dYvgtbs" target="_blank"><img src="https://iili.io/dYvgtbs.md.png" border="0"></a>
 <a align="right" href="https://freeimage.host/i/dYU6R6J" target="_blank"><img src="https://iili.io/dYU6R6J.md.png" border="0"></a>
+<a align="right" href="https://freeimage.host/i/2I5qfDb" target="_blank"><img src="https://iili.io/2I5qfDb.md.png" border="0"></a>
+
 <p>Automatización de diversos procesos ETL con Airflow, Docker, Python, Flask para empresa</p>
 <a align="right" href="https://freeimage.host/i/deSRzMv" target="_blank"><img src="https://iili.io/deSRzMv.md.png" border="0"></a>
 <a align="right" href="https://freeimage.host/i/deSlCNI" target="_blank"><img src="https://iili.io/deSlCNI.md.png" border="0"></a>
